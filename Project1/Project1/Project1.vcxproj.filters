@@ -18,5 +18,8 @@
     <ClCompile Include="text.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="4_25data.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
