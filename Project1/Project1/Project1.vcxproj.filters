@@ -21,5 +21,8 @@
     <ClCompile Include="4_25data.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="5_20data.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdbool.h>
 
-int main() {
+//int main() {
     //输出100-200之间的素数
     /*int i, j;
     bool is_prime;
@@ -90,13 +90,29 @@ int main() {
         }
     }
     printf("最大值为%d", max);*/
-    int max = 0;
-    int arr[] = { 10,2,40,5,33,99,56,75,26,8 };
+  /*  int max = 0;
+    int arr[] = { 10,2,40,5,33,99,56,75,26,120 };
     for (int i = 0; i < 10; i++) {
         if (i == 0 || arr[i] > max) {
             max = arr[i];
         }
     }
     printf("最大值为%d", max);
-    return 0;
-}
+    return 0;*/
+
+    /*int count = 0;
+    for (int i = 1; i <= 100; i++) {
+        if (i % 2 != 0) {
+            printf("%d ", i);
+        }
+    }*/
+    
+
+
+   
+
+
+
+
+
+//}
