@@ -24,8 +24,11 @@ void Exchange(int a, int b)
     printf("½»»»ºó\ta=%d\tb=%d\n", a, b);
 }
 
-int main()
-{
-    Multiplication(10);
-    Exchange(20, 30);
-}
+//int main()
+//{
+//    Multiplication(10);
+//    Exchange(20, 30);
+//
+//    int arr[10];
+//
+//}

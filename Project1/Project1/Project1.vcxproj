@@ -130,6 +130,7 @@
   <ItemGroup>
     <ClCompile Include="4_25data.c" />
     <ClCompile Include="5_20data.c" />
+    <ClCompile Include="5_21data.c" />
     <ClCompile Include="text.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
